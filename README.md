@@ -1,2 +1,2 @@
-# Smart-Home-Dashboard-Tutorial
-This is a Smart Home Dashboard that was followed for a CS-34 tutorial
+# TS-React-App
+A quick template for a new React TS App
